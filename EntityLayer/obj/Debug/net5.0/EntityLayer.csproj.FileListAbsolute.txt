@@ -1,0 +1,15 @@
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\bin\Debug\net5.0\Core.dll
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\bin\Debug\net5.0\Core.pdb
+C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CopyComplete
