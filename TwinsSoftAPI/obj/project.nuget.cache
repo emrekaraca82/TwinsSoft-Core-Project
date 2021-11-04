@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Na8Mr1rJus4YcXgqCbFo9AeZpTMLctl4awh6XrZpE3kP+x8193wfl/KPhvstLDWSylqAaVvAKRn9OPJeLMtd5Q==",
+  "dgSpecHash": "6N29c4t8s8sNzl+JVLRqcd4hF7pXzy5uodJQgQw6s5Zig8bMcqblzmbtoPdiBx0s8mVRJUMlrJ72jNa8jlVD4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\TwinsSoftAPI\\TwinsSoftAPI.csproj",
+  "projectFilePath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\TwinsSoftAPI\\TwinsSoftAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6mlR3FjnIW7SKDuJ0B8/2zJyUU1vw5Ofv5KY4pD4l3qODfSlBNi6eMBLlItCUf9AfCM3OQV/oAWUa15wpXaXoA==",
+  "dgSpecHash": "3IGdzgdReWeI11FFzCszPh78dt9v5ZGgb0qp0I4845Bmr0Cq31KaR8GafnenOyCUbcM8LwaqjF49FH3hIT7xIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\Core\\Core.csproj",
+  "projectFilePath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",

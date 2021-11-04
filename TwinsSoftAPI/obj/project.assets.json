@@ -7917,11 +7917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\TwinsSoftAPI\\TwinsSoftAPI.csproj",
+      "projectUniqueName": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\TwinsSoftAPI\\TwinsSoftAPI.csproj",
       "projectName": "TwinsSoftAPI",
-      "projectPath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\TwinsSoftAPI\\TwinsSoftAPI.csproj",
+      "projectPath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\TwinsSoftAPI\\TwinsSoftAPI.csproj",
       "packagesPath": "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\TwinsSoftAPI\\obj\\",
+      "outputPath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\TwinsSoftAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7941,8 +7941,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\BusinessLayer\\BusinessLayer.csproj"
+            "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\BusinessLayer\\BusinessLayer.csproj"
             }
           }
         }

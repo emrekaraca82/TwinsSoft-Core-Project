@@ -7727,11 +7727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\BusinessLayer\\obj\\",
+      "outputPath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7751,11 +7751,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\DataAccessLayer\\DataAccessLayer.csproj"
+            "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\EntityLayer\\EntityLayer.csproj"
+            "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

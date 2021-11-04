@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H05hQ9d6IGSP616NeRIxmix1FWVjdTOb2iy40dpirGEZGm8ONryMHNVXiw2eRCa8iw8QzyoIpEYOXH/4a/IPTw==",
+  "dgSpecHash": "9N2KabTlfz4mvr5N0hA5xZFRu7chdfskpuZ/T4NLaDNmG/+hUIXiaVBinC9dWLq5sO6LLvt3TR1BJ3YavhnK/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",

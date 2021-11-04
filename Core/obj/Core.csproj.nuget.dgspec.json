@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\Core\\Core.csproj": {}
+    "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\Core\\Core.csproj": {
+    "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\Core\\Core.csproj",
+        "projectPath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\Core\\obj\\",
+        "outputPath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

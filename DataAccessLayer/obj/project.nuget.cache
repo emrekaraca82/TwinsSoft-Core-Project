@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CjLFu8XBFllVrFkOUSkXYLsz1JFEHMwSKgQ34ZUf1HrjYIM+6b0WehmYXdOITQry+wB43XlLb5mMuH/F27QDQw==",
+  "dgSpecHash": "Pp63v54dLEzclk2m2A7PgXPyVoglz8HOEhdRLP6Qh9tI4ePvrNc9PGMG7s7+pbFjldqAZhHC1NbuzziDH4Gv4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DAMLA-BABA\\source\\repos\\TwinsSoft\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "D:\\DERSLER\\YAZILIM DERSLERİ\\WEB TASARIMI VE PROGRAMLAMA\\WEB ÖRNEKLER\\BACK-END\\DotNet\\TwinsSoft\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\DAMLA-BABA\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
