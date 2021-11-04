@@ -17,3 +17,22 @@ C:\Users\DAMLA-BABA\source\repos\TwinsSoft\BusinessLayer\bin\Debug\net5.0\DataAc
 C:\Users\DAMLA-BABA\source\repos\TwinsSoft\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
 C:\Users\DAMLA-BABA\source\repos\TwinsSoft\BusinessLayer\bin\Debug\net5.0\Core.pdb
 C:\Users\DAMLA-BABA\source\repos\TwinsSoft\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\bin\Debug\net5.0\Core.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\bin\Debug\net5.0\Core.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb

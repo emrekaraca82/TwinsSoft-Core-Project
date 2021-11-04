@@ -13,3 +13,18 @@ C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLa
 C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\bin\Debug\net5.0\Core.dll
 C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\bin\Debug\net5.0\Core.pdb
 C:\Users\DAMLA-BABA\source\repos\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CopyComplete
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\bin\Debug\net5.0\Core.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\bin\Debug\net5.0\Core.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CopyComplete
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb

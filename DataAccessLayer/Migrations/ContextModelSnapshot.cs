@@ -16,8 +16,71 @@ namespace DataAccessLayer.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
-                .HasAnnotation("ProductVersion", "5.0.9")
+                .HasAnnotation("ProductVersion", "5.0.11")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+            modelBuilder.Entity("Core.Entities.Concrete.OperationClaim", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("OperationClaims");
+                });
+
+            modelBuilder.Entity("Core.Entities.Concrete.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FirstName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<byte[]>("PasswordHash")
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<byte[]>("PasswordSalt")
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<bool>("Status")
+                        .HasColumnType("bit");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("Core.Entities.Concrete.UserOperationClaim", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int>("OperationClaimId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("UserOperationClaims");
+                });
 
             modelBuilder.Entity("EntityLayer.Concrete.About", b =>
                 {
@@ -92,18 +155,13 @@ namespace DataAccessLayer.Migrations
                     b.Property<bool>("MenuStatus")
                         .HasColumnType("bit");
 
-                    b.Property<int>("MenuSubId")
-                        .HasColumnType("int");
-
                     b.Property<string>("MenuUrl")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("SubMenuID")
+                    b.Property<int>("MenuUst")
                         .HasColumnType("int");
 
                     b.HasKey("MenuID");
-
-                    b.HasIndex("SubMenuID");
 
                     b.ToTable("Menus");
                 });
@@ -229,77 +287,6 @@ namespace DataAccessLayer.Migrations
                     b.HasKey("SliderID");
 
                     b.ToTable("Sliders");
-                });
-
-            modelBuilder.Entity("EntityLayer.Concrete.SubMenu", b =>
-                {
-                    b.Property<int>("SubMenuID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("SubMenuIcon")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("SubMenuName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("SubMenuStatus")
-                        .HasColumnType("bit");
-
-                    b.Property<string>("SubMenuUrl")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("SubMenuID");
-
-                    b.ToTable("SubMenus");
-                });
-
-            modelBuilder.Entity("EntityLayer.Concrete.User", b =>
-                {
-                    b.Property<int>("UserID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<bool>("UserAuthorization")
-                        .HasColumnType("bit");
-
-                    b.Property<DateTime>("UserCreateDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("UserEmail")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("UserImage")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("UserName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("UserPassword")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("UserStatus")
-                        .HasColumnType("bit");
-
-                    b.HasKey("UserID");
-
-                    b.ToTable("Users");
-                });
-
-            modelBuilder.Entity("EntityLayer.Concrete.Menu", b =>
-                {
-                    b.HasOne("EntityLayer.Concrete.SubMenu", "SubMenu")
-                        .WithMany("Menus")
-                        .HasForeignKey("SubMenuID");
-
-                    b.Navigation("SubMenu");
-                });
-
-            modelBuilder.Entity("EntityLayer.Concrete.SubMenu", b =>
-                {
-                    b.Navigation("Menus");
                 });
 #pragma warning restore 612, 618
         }

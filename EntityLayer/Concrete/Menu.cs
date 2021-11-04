@@ -9,12 +9,12 @@ namespace EntityLayer.Concrete
 {
     public class Menu : IEntity
     {
-        public int MenuID { get; set; }     
+        public int MenuID { get; set; }
         public string MenuName { get; set; }
+        public int MenuUst { get; set; }
         public string MenuUrl { get; set; }
         public string MenuIcon { get; set; }
-        public bool MenuStatus { get; set; }     
-        public List<SubMenu> SubMenus { get; set; }
+        public bool MenuStatus { get; set; }
 
     }
 }

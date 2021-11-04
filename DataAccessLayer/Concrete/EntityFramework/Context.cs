@@ -20,7 +20,6 @@ namespace DataAccessLayer.Concrete.EntityFramework
         public DbSet<Menu> Menus { get; set; }
         public DbSet<Setting> Settings { get; set; }
         public DbSet<Slider> Sliders { get; set; }
-        public DbSet<SubMenu> SubMenus { get; set; }
         public DbSet<OperationClaim> OperationClaims { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<UserOperationClaim> UserOperationClaims { get; set; }

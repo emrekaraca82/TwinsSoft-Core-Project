@@ -18,3 +18,23 @@ C:\Users\DAMLA-BABA\source\repos\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\Data
 C:\Users\DAMLA-BABA\source\repos\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\DAMLA-BABA\source\repos\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\Core.dll
 C:\Users\DAMLA-BABA\source\repos\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\Core.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\Core.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\Core.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\TwinsSoft\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache

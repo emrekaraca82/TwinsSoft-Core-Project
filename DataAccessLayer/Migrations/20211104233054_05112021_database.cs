@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace DataAccessLayer.Migrations
 {
-    public partial class denemee : Migration
+    public partial class _05112021_database : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -40,6 +40,36 @@ namespace DataAccessLayer.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Contents", x => x.ContentID);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Menus",
+                columns: table => new
+                {
+                    MenuID = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    MenuName = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    MenuUst = table.Column<int>(type: "int", nullable: false),
+                    MenuUrl = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    MenuIcon = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    MenuStatus = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Menus", x => x.MenuID);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "OperationClaims",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_OperationClaims", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -100,68 +130,36 @@ namespace DataAccessLayer.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "SubMenus",
+                name: "UserOperationClaims",
                 columns: table => new
                 {
-                    SubMenuID = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    SubMenuName = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    SubMenuUrl = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    SubMenuIcon = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    SubMenuStatus = table.Column<bool>(type: "bit", nullable: false)
+                    UserId = table.Column<int>(type: "int", nullable: false),
+                    OperationClaimId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_SubMenus", x => x.SubMenuID);
+                    table.PrimaryKey("PK_UserOperationClaims", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
                 name: "Users",
                 columns: table => new
                 {
-                    UserID = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    UserName = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    UserEmail = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    UserPassword = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    UserImage = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    UserAuthorization = table.Column<bool>(type: "bit", nullable: false),
-                    UserCreateDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    UserStatus = table.Column<bool>(type: "bit", nullable: false)
+                    FirstName = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    LastName = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    PasswordSalt = table.Column<byte[]>(type: "varbinary(max)", nullable: true),
+                    PasswordHash = table.Column<byte[]>(type: "varbinary(max)", nullable: true),
+                    Status = table.Column<bool>(type: "bit", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Users", x => x.UserID);
+                    table.PrimaryKey("PK_Users", x => x.Id);
                 });
-
-            migrationBuilder.CreateTable(
-                name: "Menus",
-                columns: table => new
-                {
-                    MenuID = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    MenuSubId = table.Column<int>(type: "int", nullable: false),
-                    MenuName = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    MenuUrl = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    MenuIcon = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    MenuStatus = table.Column<bool>(type: "bit", nullable: false),
-                    SubMenuID = table.Column<int>(type: "int", nullable: true)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Menus", x => x.MenuID);
-                    table.ForeignKey(
-                        name: "FK_Menus_SubMenus_SubMenuID",
-                        column: x => x.SubMenuID,
-                        principalTable: "SubMenus",
-                        principalColumn: "SubMenuID",
-                        onDelete: ReferentialAction.Restrict);
-                });
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Menus_SubMenuID",
-                table: "Menus",
-                column: "SubMenuID");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
@@ -176,16 +174,19 @@ namespace DataAccessLayer.Migrations
                 name: "Menus");
 
             migrationBuilder.DropTable(
+                name: "OperationClaims");
+
+            migrationBuilder.DropTable(
                 name: "Settings");
 
             migrationBuilder.DropTable(
                 name: "Sliders");
 
             migrationBuilder.DropTable(
-                name: "Users");
+                name: "UserOperationClaims");
 
             migrationBuilder.DropTable(
-                name: "SubMenus");
+                name: "Users");
         }
     }
 }
